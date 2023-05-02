@@ -9,7 +9,7 @@
 
 This application is made using *REACT - APP* and you can access the website using the link ::
 
-timely-yeot-ba1af9.netlify.app
+https://timely-yeot-ba1af9.netlify.app
 
 Or, download the code and run : *NPM INSTALL* , to install necessary dependencies, and then run *NPM START*
 
