@@ -1,4 +1,4 @@
-** A word-guessing game inspired by WORDLE, where you have to guess the right word within limited attempts to win the game. A perfect game for any worthsmmith.
+** A word-guessing game inspired by WORDLE, where you have to guess the right word within limited attempts to win the game. A perfect game for any worthsmith. **
 
 *RULES OF THE GAME*
 
