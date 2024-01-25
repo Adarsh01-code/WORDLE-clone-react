@@ -1,4 +1,4 @@
-** This is a Clone of the Original "Wordle", which is a web-based word game created and developed by Welsh software engineer 'Josh Wardle'.
+** A word-guessing game inspired by WORDLE, where you have to guess the right word within limited attempts to win the game. A perfect game for any worthsmmith.
 
 *RULES OF THE GAME*
 
