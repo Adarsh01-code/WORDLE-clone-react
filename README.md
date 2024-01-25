@@ -1,6 +1,6 @@
-** A word-guessing game inspired by WORDLE, where you have to guess the right word within limited attempts to win the game. A perfect game for any worthsmith. **
+**A word-guessing game inspired by WORDLE, where you have to guess the right word within limited attempts to win the game. A perfect game for any worthsmith.**
 
-*RULES OF THE GAME*
+**RULES OF THE GAME**
 
 1.) You get 6 attempts to guess the correct word. 
 2.) The Word is a *5-letter* word
